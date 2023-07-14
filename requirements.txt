@@ -1,5 +1,4 @@
 imbalanced-ensemble==0.1.7
-imbalanced-learn==0.10.0.dev0
 imblearn==0.0
 joblib==1.2.0
 numpy==1.21.3
